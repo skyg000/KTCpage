@@ -1,4 +1,4 @@
-*{ list-style: none;}
+*{ list-style: none; text-decoration: none;}
 body{
     margin: 0;
    
@@ -12,7 +12,7 @@ main{
 .main-visual {height: calc(90vh - 47px);max-height:950px !important; }
 /* intro1002 */
 .introdis {
-    font-size: 30px; font-weight: bold; border: 1px solid white; border-radius: 30px; position: absolute; bottom: 30%;right: 1%; width: 15rem; background-color: #ff04c4;
+    font-size: 30px; font-weight: bold; border: 1px solid white; border-radius: 30px; position: absolute; bottom: 28%;right: 1%; width: 15rem; background-color: #ff04c4;
     display: flex;justify-content: center;align-items: center; color: rgb(251, 248, 251);height: 70px;
 }
 /* ============================header=============== */
@@ -53,8 +53,8 @@ main{
   }
   .menu a {
     font-size: 20px;
-    font-weight:500;
-    padding: 0.2em 0.2em 1.2em;
+    font-weight:bold;
+    padding: 0.2em 0.2em 0.2em;
     color: black;
     text-decoration: none;
   }
